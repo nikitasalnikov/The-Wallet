@@ -1,0 +1,21 @@
+@media (max-width:380px) {
+    .input-group {
+        margin-bottom: 0;
+    }
+    .coinjoin__registration {
+        margin-bottom: 10%;
+    }
+}
+
+@media (max-width:360px) {
+    .container {
+        max-width: 328px;
+        width: 100%;
+        margin: 0 auto;
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .status__info svg {
+        width: 328px;
+    }
+}

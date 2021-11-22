@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Cascadia';
+    src: url(../fonts/Cascadia.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url(../fonts/Roboto-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'SFUIText-Regular';
+    src: url(../fonts/SFUIText-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'SFUIText-Medium';
+    src: url(../fonts/SFUIText-Medium.ttf);
+}
